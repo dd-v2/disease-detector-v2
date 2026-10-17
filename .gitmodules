@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/osamalzabidi/dd-v2-backend.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/osamalzabidi/dd-v2-mobile.git
