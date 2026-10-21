@@ -33,3 +33,4 @@ _resource/
 *.pkl
 TODO.md
 model.joblib.metrics.json
+fastapi_deploy_token.txt
